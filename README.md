@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @rinvay2021.
+- 👋 Hi, I'm rinvay.
 
 - 🚀 I love tech and coding, always learning and growing.
 
