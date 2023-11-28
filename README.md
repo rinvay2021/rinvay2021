@@ -6,4 +6,4 @@
 
 - 🤝 Looking for collaborators to create cool tech solutions.
 
-- 📧 Reach me at rinvay2021@gmail.com if you're into tech and innovation. Let's explore coding together!
+- 📧 Reach me at rinvay1999@qq.com if you're into tech and innovation. Let's explore coding together!
