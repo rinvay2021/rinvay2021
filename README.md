@@ -1,7 +1,6 @@
-<p align="Center" ><img src="https://img.alicdn.com/imgextra/i4/O1CN01oVK5W11FifB6TjCaM_!!6000000000521-2-tps-1456-816.png_1200x1200.jpg" height="300px"></p>
 
 <h1 align="Center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img><samp> Hi There , I'm Rinvay </samp></h1>
-
+<p align="Center" ><img src="https://img.alicdn.com/imgextra/i4/O1CN01oVK5W11FifB6TjCaM_!!6000000000521-2-tps-1456-816.png_1200x1200.jpg" height="300px"></p>
 <p align="center">
   <samp>
     🌱 A front-end developer from China. Welcome to my github home page.
