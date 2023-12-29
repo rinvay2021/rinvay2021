@@ -1,13 +1,7 @@
 
-<h1 align="Center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img><samp> Hi There , I'm Rinvay </samp></h1>
-<table border=0>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rinvay2021&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
-    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=4240159265794247&hide_border=true" alt="HuiDBK的掘金数据" style="zoom:100%;" align="left"/></td>
-  </tr>
-</table>
-<p align="center">
-  <samp>
+<h1><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img><samp> Hi There , I'm Rinvay </samp></h1>
+
+<samp>
     🌱 A front-end developer from China. Welcome to my github home page.
     <br><br>
     🚀 I love tech and coding, always learning and growing.
@@ -15,8 +9,16 @@
     🚴 Besides coding, I also like cycling and music, because they can make me feel relaxed.
     <br><br>
     💬 Ask me about Web dev related Stuff
-  </samp>
-</p>
+</samp>
+
+<table border=0>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=rinvay2021&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=4240159265794247&hide_border=true" alt="HuiDBK的掘金数据" style="zoom:100%;" align="left"/></td>
+  </tr>
+</table>
+
+![](https://raw.githubusercontent.com/rinvay2021/rinvay2021/output/github-contribution-grid-snake.svg)
 
 ### 🛠 Technologies
 
