@@ -11,13 +11,7 @@
     <br><br>
     📮 rinvay1999@qq.com
 </samp>
-
-<table border=0>
-    <tr>
-        <td><img src="" /></td>
-        <td><img src="" /></td>
-    </tr>
-</table>
+<br><br>
 
 <table border=0>
   <tr>
