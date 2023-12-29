@@ -1,6 +1,11 @@
 
 <h1 align="Center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img><samp> Hi There , I'm Rinvay </samp></h1>
-<p align="Center" ><img src="https://img.alicdn.com/imgextra/i4/O1CN01oVK5W11FifB6TjCaM_!!6000000000521-2-tps-1456-816.png_1200x1200.jpg" height="300px"></p>
+<table border=0>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=huidbk&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=817692384431470&hide_border=true" alt="HuiDBK的掘金数据" style="zoom:100%;" align="left"/></td>
+  </tr>
+</table>
 <p align="center">
   <samp>
     🌱 A front-end developer from China. Welcome to my github home page.
