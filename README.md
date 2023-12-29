@@ -1,24 +1,40 @@
-
-<h1><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img><samp> Hi There , I'm Rinvay </samp></h1>
+<h3><img alt="dsmark" height="37px" width="40px" src="./images/hmbb.gif"></img><samp> Hi There , I'm Rinvay </samp></h3>
 
 <samp>
-    🌱 A front-end developer from China. Welcome to my github home page.
+    🌱 A front-end developer from China.
     <br><br>
     🚀 I love tech and coding, always learning and growing.
     <br><br>
-    🚴 Besides coding, I also like cycling and music, because they can make me feel relaxed.
+    🚴 Besides coding, I also like cycling and music.
     <br><br>
     💬 Ask me about Web dev related Stuff
+    <br><br>
+    📮 rinvay1999@qq.com
 </samp>
 
 <table border=0>
+    <tr>
+        <td><img src="" /></td>
+        <td><img src="" /></td>
+    </tr>
+</table>
+
+<table border=0>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=rinvay2021&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
-    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=4240159265794247&hide_border=true" alt="HuiDBK的掘金数据" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=rinvay2021&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="rinvay's GitHub stats" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=4240159265794247&hide_border=true" alt="掘金数据" style="zoom:100%;" align="left"/></td>
   </tr>
 </table>
 
 ![](https://raw.githubusercontent.com/rinvay2021/rinvay2021/output/github-contribution-grid-snake.svg)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rinvay2021&theme=vue-light)
+
+### 🌱 Looking forward to learn:
+
+![Rust](https://img.shields.io/badge/-Rust-0D7261?style=flat-square&logo=Rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-027D9C?style=flat-square&logo=Go&logoColor=white)
+![solidity](https://img.shields.io/badge/-solidity-2B247C?style=flat-square&logo=solidity&logoColor=white)
 
 ### 🛠 Technologies
 
@@ -42,14 +58,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-
-### 🌱 Looking forward to learn:
-
-![Rust](https://img.shields.io/badge/-Rust-0D7261?style=flat-square&logo=Rust&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-027D9C?style=flat-square&logo=Go&logoColor=white)
-![solidity](https://img.shields.io/badge/-solidity-2B247C?style=flat-square&logo=solidity&logoColor=white)
-
-### 💬 Contact Me
-
-![Gmail Badge](https://img.shields.io/badge/-rinvay1999@qq.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
-![wecaht](https://img.shields.io/badge/-rinvay1999-2BAE67?style=flat-square&logo=Wechat&logoColor=white)
