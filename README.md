@@ -22,8 +22,6 @@
 
 ![](https://raw.githubusercontent.com/rinvay2021/rinvay2021/output/github-contribution-grid-snake.svg)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rinvay2021&theme=vue-light)
-
 ### 🌱 Looking forward to learn:
 
 ![Rust](https://img.shields.io/badge/-Rust-0D7261?style=flat-square&logo=Rust&logoColor=white)
