@@ -1,8 +1,11 @@
 ![](https://raw.githubusercontent.com/rinvay2021/rinvay2021/output/github-contribution-grid-snake.svg)
 <br><br>
 
-<h3><img alt="dsmark" height="37px" width="40px" src="./images/hmbb.gif"></img><samp> Hi There , I'm Rinvay </samp></h3>
+<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
+<legend align="left"><h3>👩🏻‍💻 Rinvay</h3></legend>
 
+<h3><img alt="dsmark" height="37px" width="40px" src="./images/hmbb.gif"></img><samp> Hi There , I'm Rinvay </samp></h3>
+<br>
 <samp>
     🌱 A front-end developer from China.
     <br><br>
@@ -17,7 +20,6 @@
 <br>
 <h3><img alt="dsmark" height="37px" width="40px" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"></img><samp> Tecnologias em aprendizado </samp></h3>
 <br>
-<p style="display: inline-block;" align="center">
    <kbd>
     <kbd>Back-end</kbd>
     <br>
@@ -51,5 +53,3 @@
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
     <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
   </kbd>
-  <br>
-</p>
