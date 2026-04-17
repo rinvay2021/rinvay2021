@@ -18,7 +18,7 @@
     📮 rinvay1999@qq.com
 </samp>
 <br>
-<h3><img alt="dsmark" height="37px" width="40px" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"></img><samp> Tecnologias em aprendizado </samp></h3>
+<h3><img alt="dsmark" height="37px" width="40px" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"></img><samp> Tecnologias </samp></h3>
 <br>
    <kbd>
     <kbd>Back-end</kbd>
@@ -34,14 +34,14 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </kbd>
   <kbd>
     <kbd>Library/FrameWorks</kbd>
     <br>
     <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
-    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="dotnet"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /> 
   </kbd>
   <kbd>
     <kbd>Outros</kbd>
