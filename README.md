@@ -1,6 +1,5 @@
 ![](https://raw.githubusercontent.com/rinvay2021/rinvay2021/output/github-contribution-grid-snake.svg)
-<br><br>
-
+<br>
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
 <legend align="left"><h3>👩🏻‍💻 Rinvay</h3></legend>
 
@@ -18,7 +17,7 @@
     📮 rinvay1999@qq.com
 </samp>
 <br>
-<h3><img alt="dsmark" height="37px" width="40px" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"></img><samp> Tecnologias </samp></h3>
+<h3><img alt="dsmark" height="37px" width="40px" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"></img><samp> Tecnologias em aprendizado </samp></h3>
 <br>
    <kbd>
     <kbd>Back-end</kbd>
