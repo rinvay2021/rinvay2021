@@ -1,6 +1,4 @@
 ![](https://raw.githubusercontent.com/rinvay2021/rinvay2021/output/github-contribution-grid-snake.svg)
-<br>
-
 <h3><img alt="dsmark" height="37px" width="40px" src="./images/hmbb.gif"></img><samp> Hi There , I'm Rinvay </samp></h3>
 <br>
 <samp>
