@@ -1,7 +1,5 @@
 ![](https://raw.githubusercontent.com/rinvay2021/rinvay2021/output/github-contribution-grid-snake.svg)
 <br>
-<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-<legend align="left"><h3>👩🏻‍💻 Rinvay</h3></legend>
 
 <h3><img alt="dsmark" height="37px" width="40px" src="./images/hmbb.gif"></img><samp> Hi There , I'm Rinvay </samp></h3>
 <br>
